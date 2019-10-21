@@ -1,0 +1,64 @@
+- Link selection color to Primary color
+
+
+
+- Product Items
+	Preview other pictures with arrows
+
+- Cart
+	Add dynamic quantity
+	Single price and total price for each item
+
+- Checkout
+	Handle
+		{"Result": {"code": "409", "Response": "No shipping options available"}}
+
+- Dashboard
+	Add mini dashboard for registered users
+	Check previous or current orders
+		
+- Check and test non anon checkout
+- Clean up front end
+- Add restraints to phone number input on account creation
+
+DONE
+- Product
+	Add loading
+	Add share buttons
+	“Ships from United States”
+- Add states and regions to checkout
+- Modularize footer
+- Add Payment icons to bottom
+- Collection
+	Remove unimplemented sort features
+- Implement variant information in Cart
+- Implement collection filtering to collections
+- Implement coupon codes to Cart
+- Finish "Thank You/Order Confirmed" page
+- Implement multiple product images
+- Add OpenGraph meta
+- Add SEO meta
+- Implement custom options and requirements for BigCommerce products
+- Implement sorting to collection pages
+
+TABLED []
+- Product Zoom on hover
+- Sticky header
+- Add dropdowns for navigation bar
+- Add check to BasicHero so that if a heading is null it gets removed to justify it in the center
+- Implement upsell for Carts
+- Implement Instagram feed
+- Add varieties to navigation bar
+- Implement true header title for blog-like pages
+- Implement zoom-on-hover to product pages
+- Implement specifications into Product page
+
+XXXXX Change main font to ‘Open Sans’
+XXXXX Implement clean sticky header
+XXXXX Implement "unselectable" to BasicHero
+XXXXX Add justify-content: center;
+XXXXX Add colorPrimary to box shadow of Color Bar
+XXXXX Add soldout badge to product items
+XXXXX Add switch to featured collections to use children instead of built in sample
+XXXXX Add switch for flipping the lines on BasicHero
+XXXXX Add switch to navigation for turning off the search bar
